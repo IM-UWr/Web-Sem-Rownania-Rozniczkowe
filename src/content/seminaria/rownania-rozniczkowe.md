@@ -9,6 +9,7 @@ kontakt: "Robert.Stanczy@math.uni.wroc.pl"
 archiwum: "http://www.math.uni.wroc.pl/~stanczr/semin/semin.html"
 zaklad: "rownania-rozniczkowe"
 aktywne: true
+tresc_en: "The seminar is open to everyone interested."
 opublikowany: true
 ---
 
