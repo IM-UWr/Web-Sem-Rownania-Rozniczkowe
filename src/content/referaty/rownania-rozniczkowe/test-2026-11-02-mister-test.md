@@ -1,6 +1,6 @@
 ---
 tytul: "Testowe: Finite-time blow-up versus global existence in a parabolic–elliptic Keller–Segel system with logistic damping"
-prelegent: "Marta Kolbuszewska"
+prelegent: "Mister Test"
 afiliacja: "Uniwersytet Warszawski"
 termin: "2026-11-02T15:15"
 sala: "605"
