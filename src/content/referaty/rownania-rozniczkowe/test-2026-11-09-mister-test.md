@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Finite-time blow-up versus global existence in a parabolic–elliptic Keller–Segel system with logistic damping"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: "Równania różniczkowe"
 nazwa_en: "Differential Equations"
 prowadzacy:
