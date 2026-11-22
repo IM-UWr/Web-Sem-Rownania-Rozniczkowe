@@ -9,7 +9,7 @@ prowadzacy_ze_spisu:
   - _cms/pracownicy/grzegorz-karch.yml
 prowadzacy_spoza:
   - dr Marek Kryspin (Politechnika Wrocławska)
-kontakt: Robert.Stanczy@math.uni.wroc.pl
+kontakt: grzegorz.karch@math.uni.wroc.pl
 archiwum: http://www.math.uni.wroc.pl/~stanczr/semin/semin.html
 zaklad: rownania-rozniczkowe
 aktywne: true
