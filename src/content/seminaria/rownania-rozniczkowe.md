@@ -15,4 +15,11 @@ archiwum: http://www.math.uni.wroc.pl/~stanczr/semin/semin.html
 zaklad: rownania-rozniczkowe
 aktywne: true
 ---
-Seminarium jest otwarte — zapraszamy wszystkich zainteresowanych.
+Środowiskowe Seminarium z Równań Różniczkowych wyłoniło się w latach **1973–1974** ze spotkań poświęconych matematycznym problemom filtracji wód gruntowych. Prowadzone przez Andrzeja Krzywickiego i Hannę Marcinkowską, połączyło badaczy z wrocławskich uczelni.
+
+Pod koniec lat osiemdziesiątych jego tematyka rozszerzyła się o modele oddziaływań elektrostatycznych i grawitacyjnych, a następnie o wybuchy rozwiązań i chemotaksję. Kolejnym przełomem było zapoczątkowane w latach dziewięćdziesiątych badanie równań z operatorami nielokalnymi. Rozwój tych kierunków, związany m.in. z działalnością Piotra Bilera i Grzegorza Karcha, towarzyszył rozszerzaniu współpracy międzynarodowej i kształceniu kolejnych pokoleń badaczy.
+
+Od roku akademickiego **2022/2023** seminarium jest organizowane wspólnie z matematykami z **Wydziału Matematyki Politechniki Wrocławskiej**.
+
+Informacje o historii seminarium zaczerpnięto z załączonego 
+[artykułu Tadeusza Nadziei *„Pół wieku seminarium profesora Andrzeja Krzywickiego – kilka osobistych wspomnień”*](), opublikowanego w „Wiadomościach Matematycznych” 56(2), 2020, s. 287–299.
