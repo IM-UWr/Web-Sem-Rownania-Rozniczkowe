@@ -47,5 +47,5 @@ Pod koniec lat osiemdziesiątych jego tematyka rozszerzyła się o modele oddzia
 Od roku akademickiego **2022/2023** seminarium jest organizowane wspólnie z matematykami z **Wydziału Matematyki Politechniki Wrocławskiej**.
 
 Informacje o historii seminarium zaczerpnięto z załączonego 
-[artykułu Tadeusza Nadziei *„Pół wieku seminarium profesora Andrzeja Krzywickiego – kilka osobistych wspomnień”*](/pliki/nadzieja-seminarium.pdf), opublikowanego w „Wiadomościach Matematycznych” 56(2), 2020, s. 287–299.
+artykułu Tadeusza Nadziei [*„Pół wieku seminarium profesora Andrzeja Krzywickiego – kilka osobistych wspomnień”*](/pliki/nadzieja-seminarium.pdf), opublikowanego w „Wiadomościach Matematycznych” 56(2), 2020, s. 287–299.
 
