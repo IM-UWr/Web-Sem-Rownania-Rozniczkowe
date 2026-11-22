@@ -1,6 +1,6 @@
 ---
-nazwa: Równania różniczkowe
-nazwa_en: Differential Equations
+nazwa: Środowiskowe seminarium z równań różniczkowych
+nazwa_en: Joint Seminar on Differential Equations
 opublikowany: true
 tresc_en: The seminar is open to everyone interested.
 haslo: Dyfuzja, chemotaksja, wybuchy
