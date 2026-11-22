@@ -24,10 +24,10 @@ tresc_en: >-
 
 
   This historical account draws on the attached article by Tadeusz Nadzieja,
-  *“Pół wieku seminarium profesora Andrzeja Krzywickiego – kilka osobistych
+  [*“Pół wieku seminarium profesora Andrzeja Krzywickiego – kilka osobistych
   wspomnień”* (“Half a Century of Professor Andrzej Krzywicki’s Seminar: A Few
-  Personal Recollections”), published in *Wiadomości Matematyczne* 56(2), 2020,
-  pp. 287–299.
+  Personal Recollections”)](nadzieja-seminarium.pdf), published in *Wiadomości
+  Matematyczne* 56(2), 2020, pp. 287–299.
 haslo: Dyfuzja, chemotaksja, wybuchy, operatory nielokalne, równania ośrodków ciągłych
 haslo_en: Diffusion, chemotaxis, blow-up, nonlocal operators, equations of
   continuum mechanics
