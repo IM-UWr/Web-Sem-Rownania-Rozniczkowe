@@ -6,6 +6,6 @@ jezyk: en
 prelegent: Hubert Woszczek
 afiliacja: "Politechnika Wrocławska "
 termin: 2026-11-23T15:15
-sala: Instytut Matematyczny UWr, sala 605
+sala: "605"
 ---
 <!-- STRESZCZENIE: Zwykły tekst; wzory w $…$. Slajdy: dodaj w „Pliki” niżej. -->

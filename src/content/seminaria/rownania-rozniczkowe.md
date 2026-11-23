@@ -1,6 +1,6 @@
 ---
-nazwa: "Środowiskowe seminarium z równań różniczkowych i układów dynamicznych "
-nazwa_en: Joint Seminar on Differential Equations and dynamical systems
+nazwa: "Równania różniczkowe i układy dynamiczne"
+nazwa_en: "Differential Equations and Dynamical Systems"
 opublikowany: true
 tresc_en: >-
   The Joint Seminar on Differential Equations emerged in **1973–1974** from
