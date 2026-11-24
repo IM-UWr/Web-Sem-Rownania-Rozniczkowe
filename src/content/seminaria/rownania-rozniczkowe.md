@@ -1,6 +1,6 @@
 ---
-nazwa: "Równania różniczkowe i układy dynamiczne"
-nazwa_en: "Differential Equations and Dynamical Systems"
+nazwa: Równania różniczkowe i układy dynamiczne
+nazwa_en: Differential Equations and Dynamical Systems
 opublikowany: true
 tresc_en: >-
   The Joint Seminar on Differential Equations emerged in **1973–1974** from
@@ -34,13 +34,13 @@ haslo_en: Diffusion, chemotaxis, blow-up, nonlocal operators, equations of
 prowadzacy_ze_spisu:
   - _cms/pracownicy/grzegorz-karch.yml
 prowadzacy_spoza:
-  - dr Marek Kryspin (PWr)
+  - "[dr Marek Kryspin](https://prac.im.pwr.edu.pl/~kryspin/marek.php)"
 kontakt: grzegorz.karch@math.uni.wroc.pl
 archiwum: http://www.math.uni.wroc.pl/~stanczr/semin/semin.html
 zaklad: rownania-rozniczkowe
 aktywne: true
 ---
-Środowiskowe Seminarium z Równań Różniczkowych wyłoniło się w latach **1973–1974** ze spotkań poświęconych matematycznym problemom filtracji wód gruntowych. Prowadzone przez Andrzeja Krzywickiego i Hannę Marcinkowską, połączyło badaczy z wrocławskich uczelni.
+Środowiskowe Seminarium z Równań Różniczkowych i Układów Dynamicznych wyłoniło się w latach **1973–1974** ze spotkań poświęconych matematycznym problemom filtracji wód gruntowych. Prowadzone przez Andrzeja Krzywickiego i Hannę Marcinkowską, połączyło badaczy z wrocławskich uczelni.
 
 Pod koniec lat osiemdziesiątych jego tematyka rozszerzyła się o modele oddziaływań elektrostatycznych i grawitacyjnych, a następnie o wybuchy rozwiązań i chemotaksję. Kolejnym przełomem było zapoczątkowane w latach dziewięćdziesiątych badanie równań z operatorami nielokalnymi. Rozwój tych kierunków, związany m.in. z działalnością Piotra Bilera i Grzegorza Karcha, towarzyszył rozszerzaniu współpracy międzynarodowej i kształceniu kolejnych pokoleń badaczy.
 
