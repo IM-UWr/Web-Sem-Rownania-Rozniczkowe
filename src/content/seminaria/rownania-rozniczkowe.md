@@ -34,7 +34,7 @@ haslo_en: Diffusion, chemotaxis, blow-up, nonlocal operators, equations of
 prowadzacy_ze_spisu:
   - _cms/pracownicy/grzegorz-karch.yml
 prowadzacy_spoza:
-  - <a href="https://prac.im.pwr.edu.pl/~kryspin/marek.php">dr Marek Kryspin </a>
+  - dr Marek Kryspin (Politechnika Wrocławska)
 kontakt: grzegorz.karch@math.uni.wroc.pl
 archiwum: http://www.math.uni.wroc.pl/~stanczr/semin/semin.html
 zaklad: rownania-rozniczkowe
